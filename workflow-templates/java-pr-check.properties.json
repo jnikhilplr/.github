@@ -1,5 +1,8 @@
 {
   "name": "Java PR Builder",
+  "categories": [
+        "Java"
+    ] ,
   "java_version": "17",
   "distribution": "temurin",
   "maven_goals": "clean install",
