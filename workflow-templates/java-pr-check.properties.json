@@ -1,8 +1,8 @@
 {
     "name": "Java PR Builder",
     "description": "To perform PR check for Java Application",
-    "iconName": "node.js",
+    "iconName": "ant.svg",
     "categories": [
-        "JavaScript"
+        "java"
     ] 
 }
