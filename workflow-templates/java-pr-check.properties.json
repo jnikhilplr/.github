@@ -3,6 +3,6 @@
     "description": "To perform PR check for Java Application",
     "iconName": "maven",
     "categories": [
-        "continuous-integration"
+        "Continuous integration"
     ] 
 }
