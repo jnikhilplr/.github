@@ -3,6 +3,6 @@
     "description": "To perform PR check for Java Application",
     "iconName": "icons/ant.svg",
     "categories": [
-        "Java"
+        "continuous-integration"
     ] 
 }
