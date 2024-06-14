@@ -3,7 +3,7 @@
     "description": "To perform PR check for Java Application",
     "iconName": "example-icon",
     "categories": [
-        "Go"
+        "Java"
     ],
     "filePatterns": [
         "package.json$",
