@@ -1,13 +1,8 @@
 {
-  "name": "Java PR Builder",
-  "categories": [
-        "Java"
-    ] ,
-  "java_version": "17",
-  "distribution": "temurin",
-  "maven_goals": "clean install",
-  "test_command": "mvn test",
-  "lint_command": "mvn checkstyle:check",
-  "success_status_description": "Build, tests, and linting passed",
-  "failure_status_description": "Build, tests, or linting failed"
+    "name": "Java PR Builder",
+    "description": "To perform PR check for Java Application",
+    "iconName": "node.js",
+    "categories": [
+        "JavaScript"
+    ] 
 }
