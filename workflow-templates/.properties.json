@@ -1,0 +1,13 @@
+{
+    "name": "MyOrg Organization Workflow",
+    "description": "My Organization CI starter workflow.",
+    "iconName": "example-icon",
+    "categories": [
+        "Java"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
