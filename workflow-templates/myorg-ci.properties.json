@@ -1,13 +1,8 @@
 {
     "name": "nikipedia444 CI",
     "description": "nikipedia444 CI starter workflow.",
-    "iconName": "example-icon",
+    "iconName": "terraform",
     "categories": [
-        "Go"
-    ],
-    "filePatterns": [
-        "package.json$",
-        "^Dockerfile",
-        ".*\\.md$"
-    ]
+        "continuous-integration"
+    ] 
 }
