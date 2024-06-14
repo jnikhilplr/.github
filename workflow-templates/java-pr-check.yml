@@ -27,6 +27,9 @@ jobs:
       - name: Run tests
         run: mvn test
 
+      - name: Lint with Checkstyle
+        run: mvn checkstyle:check
+
       - name: Update PR status to success
         if: success()
         uses: actions/github-script@v6
