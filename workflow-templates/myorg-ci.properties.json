@@ -3,6 +3,6 @@
     "description": "nikipedia444 CI starter workflow.",
     "iconName": "terraform",
     "categories": [
-        "Continuous integration"
+        "Deployment"
     ] 
 }
