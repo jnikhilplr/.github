@@ -1,7 +1,7 @@
 {
     "name": "Java PR Builder",
     "description": "To perform PR check for Java Application",
-    "iconName": "icons/ant.svg",
+    "iconName": "icons/java.svg",
     "categories": [
         "continuous-integration"
     ] 
