@@ -1,8 +1,8 @@
 {
     "name": "Java PR Builder",
     "description": "To perform PR check for Java Application",
-    "iconName": "icons/java",
+    "iconName": "gradle",
     "categories": [
-        "continuous-integration"
+        "Gradle"
     ] 
 }
