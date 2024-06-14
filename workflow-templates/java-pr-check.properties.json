@@ -1,5 +1,5 @@
 {
-    "name": "Java PR Builder",
+    "name": "Java-Maven PR Check",
     "description": "To perform PR check for Java Application",
     "iconName": "maven",
     "categories": [

@@ -1,5 +1,5 @@
 {
-    "name": "nikipedia444 CI",
+    "name": "Java Maven Docker Build",
     "description": "nikipedia444 CI starter workflow.",
     "iconName": "terraform",
     "categories": [
