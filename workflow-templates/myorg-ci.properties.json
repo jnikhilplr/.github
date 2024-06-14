@@ -1,9 +1,9 @@
 {
-    "name": "MyOrg Organization Workflow",
-    "description": "My Organization CI starter workflow.",
+    "name": "nikipedia444 Organization Workflow",
+    "description": "nikipedia444 CI starter workflow.",
     "iconName": "example-icon",
     "categories": [
-        "Java"
+        "Go"
     ],
     "filePatterns": [
         "package.json$",
